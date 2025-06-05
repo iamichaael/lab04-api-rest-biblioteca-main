@@ -4,10 +4,8 @@ Esta es la documentación de la API REST para gestionar una biblioteca. A contin
 
 ## Endpoints
 
-### 1. `GET /books`
-Obtiene la lista de todos los libros.
 
-#### Ejemplo de petición:
+#### Ejemplo de peticiones:
 
 ```bash
 GET /books
