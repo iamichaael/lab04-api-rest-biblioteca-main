@@ -1,6 +1,10 @@
 <?php
 
 $config = [
-    'endpoint_url' => 'http://localhost:8080/books'
+    'host' => 'mysql',
+    'username' => 'michael',
+    'password' => 'contraseñamichael123',
+    'database' => 'PrestamosBiblioteca'
 ];
 
+return $config;
